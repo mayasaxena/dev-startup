@@ -1,4 +1,4 @@
-# Apprentice Tools
+# Basic Tools
 
 This repository contains some links and instructions that may be useful to you.
 
@@ -23,20 +23,3 @@ Then, run `source .bash_profile` to run the script and apply the changes. You sh
 - [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
     - Information on how merging works vs. how rebasing works
     - Diagrams for what merge and rebase workflows look like
-
-## [Sherpa](https://github.com/IntrepidPursuits/sherpa)
-Intrepid's development best practices.
-- [Git Cookbook](https://github.com/IntrepidPursuits/sherpa/blob/master/git/git_cookbook.md)
-    - Alternate method to install Git completion
-    - More Git alias examples
-    - Useful Git commands
-- [Git Workflow](https://github.com/IntrepidPursuits/sherpa/blob/master/git/git_workflow_quick_reference.md)
-    - Reference sheet with info about branch organization and feature workflow
-    - Instructions for resolving merge conflicts
-    - Explanation on why we use a rebase workflow
-    - [Pull request guidelines](https://github.com/IntrepidPursuits/sherpa/blob/master/pull_request_guidelines.md)
-
-#### iOS
-- [Project Setup](https://github.com/IntrepidPursuits/sherpa/blob/master/ios/ios_project_setup.md)
-    - How to create a Github repo with a `.gitignore` and Xcode project
-    - How to add Cocoapods
